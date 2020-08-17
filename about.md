@@ -16,4 +16,4 @@ Thanks for stopping by!
 
 ### Contact me
 
-[Contact me here](mailto:rekelle3@ncsu.edu)
+[Send me an email](mailto:rekelle3@ncsu.edu)
