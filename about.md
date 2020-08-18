@@ -12,7 +12,7 @@ Now a little about me… I am a twenty-four-year-old financial specialist at a n
 
 When I'm not working or studying, I enjoy spending as much time outdoors as possible. I enjoy camping, hiking, and boating with dog (see picture below). 
 
-
+knitr::include_graphics('C:/Users/rache/Documents/Fall 2020/ST 558/Pictures/Kody.jpg')
 
 My dog's name is Kody. He is an eleven year-old dachshund shih-tzu mix. Other hobbies and passions of mine include reading, video games, drawing, and painting.
 
