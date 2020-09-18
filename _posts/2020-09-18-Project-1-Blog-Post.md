@@ -8,4 +8,4 @@ One of my big takeaways from this project is to try and not "copy and paste" cod
 
 Below  is a link to my github pages repo:
 
-https://rekelle3.github.io/ST558-Project-1/
+[Pages Link](https://rekelle3.github.io/ST558-Project-1/)
