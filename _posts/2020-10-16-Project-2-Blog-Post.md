@@ -1,1 +1,11 @@
- Test
+My project began with reading in a data set of the daily count of rental bikes between years 2011 and 2012 in the Capital bikeshare system. Using the data set, I created a training and test split, which is a 70/30 split. Then, I did some exploratory data analysis of the training data set. In this analysis, I used contingency tables and scatterplots to compare each predictor variable with the response variable, which was the count of bike rentals. After this, I fit the two models, a non-ensemble tree regression model and a boosted tree model, using the training set. Finally, I made predictions using these models on the test sets and determined an optimal model in terms of the test RMSE.   
+
+One thing I would do differently is to try some other methods of exploratory analysis. I focused primarily on contingency tables and scatterplots as they related to the response variable. I think it would have been interesting to explore some other plots such as a boxplot or line graph as we are working with time data here. I also would consider selecting my own tuning parameters. I used the default values, as I didn't see anything in project description to make me think I should select my own values; however, I think it would have been interesting to see the resulting models performance in comparison to the performance with the default values.  
+
+The most difficult part of the project, in my opinion, was getting the automation of the reports for all days of the week to sucessfully work. I spent a good chunk of time trying to use the YAML header to generate the report for each day of the week. I wasn't able to figure out a way to get that method to work; however, I eventually realized that I needed to call the apply function from a separate R script file. 
+
+One of my big takeaways from this project is to do some pre-planning work rather than jumping right into the code. I feel like I wouldn't have spent so much time trying to get my parameters working in the YAML header as I described above. Also, I believe I might've been able to come up with a more interesting exploratory analysis if I had done some prep work before beginning the actual coding of the project. 
+
+Below is a link to my github pages repo:
+
+[Pages Link](https://rekelle3.github.io/ST558-Project-2/)
