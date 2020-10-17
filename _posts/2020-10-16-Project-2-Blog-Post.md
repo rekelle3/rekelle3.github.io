@@ -8,4 +8,4 @@ One of my big takeaways from this project is to do some pre-planning work rather
 
 Below is a link to my github pages repo:
 
-[Pages Link](https://rekelle3.github.io/ST558-Project-2/)
+[Pages Link](https://rekelle3.github.io/ST-558-Project-2/)
